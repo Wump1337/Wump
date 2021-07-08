@@ -6,5 +6,4 @@ p {
   font-family: Tourney;
    color: White;
 }
-background: center / contain no-repeat url("/is37020g4a631.png"),
-            #eee 35% url("/is37020g4a631.png");
+background: no-repeat url("./is37020g4a631.png");
