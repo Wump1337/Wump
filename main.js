@@ -1,4 +1,4 @@
-document.write(`<h1> Welcome to My Site ! :)</h1>
+document.write(`<h1> Welcome to My Personal Website!</h1>
 </br>
 <h2>Hey, there! Its me Wump a growing YouTuber with 64 Subscribers a dream of hitting 1,000 subscribers</h2>
 <center>
