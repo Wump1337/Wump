@@ -3,7 +3,6 @@ document.write(`<h1> Welcome to My Site ! :)</h1>
 <h2>Hey, there! Its me Wump a growing YouTuber with 64 Subscribers a dream of hitting 1,000 subscribers</h2>
 <center>
 <a href="https://www.youtube.com/channel/UCC1TW4kMMdmrfWXBX8nRnWg">
-    <img src="./assets/favicon.png" alt="Wump" height="100px" width="100px">
 </a>
 <br>
 
