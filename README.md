@@ -1,7 +1,11 @@
-# Wump
-Hello there, My name is James (a.k.a. Wump). My first ever project was called WebsterOS. It was an operating system based on Linux. We had released V1.1 and then we quit. I started a Discord Bot called Syntax before my account being flagged, I hadn't verified my phone and made a new account, there I continued Syntax until an idea struck me. **What if I recreated YouTube Shorts and TikTok?** I had my friend Lenny help me. It worked out until my mental health got worse and worse, I told Lenny to hold Clipper (the TikTok clone) for some time.
+# More About Me
+I'm James (Jacques in French), I'm 14 years old, and turn 15 in April. I was born in **Quebec** (which explains why my primary language is French).
 
-**I started a community server, hoping it would work. It was raided only 7 days of running it.**
-Only 1 week ago I tried to recreate it and it surprisingly is almost just like my old server. 
+# My Goal
+My goal is to change the future of websites and technology before I die. I also program in **4** different languages which makes my goal easier!
 
-I have many projects i'm managing right now, if anything intresting happens i'll list it :D
+# Projects
+You can view my projects on my GitHub page, I mostly have orginisations for my projects.
+
+# Downsides
+I suffer from a lot, in this case I'm discussing my depression. **It's the only thing that pushes me back from who I want to be.** You don't need to support me, donate to me, I always just help myself
