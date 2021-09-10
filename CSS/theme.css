@@ -24,9 +24,9 @@ color: white;
   height: 50px;
 	width: 200px;
   display: flex;
-	align-items: left;
+	align-items: center;
 	justify-content: center;
-	margin: auto;
+	margin-right: 10px;
 }
 .button2 {
 font-family: Alfa Slab One;
@@ -38,7 +38,7 @@ color: white;
   height: 50px;
 	width: 200px;
   display: flex;
-	align-items: right;
+	align-items: center;
 	justify-content: center;
-	margin: auto;
+	margin-left: 10px;
 }
