@@ -4,7 +4,7 @@ I'm James (Jacques in French), I'm 14 years old, and turn 15 in April. I was bor
 # Links
 
 [Discord](https://dsc.gg/wumpkingdom)
-(YouTube)[https://youtube.com/channel/UCC1TW4kMMdmrfWXBX8nRnWg]
-(ArtStation)[https://artstation.com/Wumpter15]
+[YouTube](https://youtube.com/channel/UCC1TW4kMMdmrfWXBX8nRnWg)
+[ArtStation](https://artstation.com/Wumpter15)
 
 
