@@ -7,4 +7,10 @@ I'm James (Jacques in French), I'm 14 years old, and turn 15 in April. I was bor
 [YouTube](https://youtube.com/channel/UCC1TW4kMMdmrfWXBX8nRnWg) |
 [ArtStation](https://artstation.com/Wumpter15) |
 
+# Skills
 
+• Web programming (`HTML`, `CSS,` and `JS`.)
+
+• GFX (`PNG` and `JPEG` format)
+
+• SFX
