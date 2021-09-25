@@ -11,23 +11,25 @@ I'm James (Jacques in French), I'm 14 years old, and turn 15 in April. I was bor
 
 • Web programming (`HTML`, `CSS,` and `JS`.)
 
-Experience: 1 year {■■□□□}
+
 
 
 
 • Video editing (`Only for personal use.`)
 
-Experience: 1/2 years {■■■□□}
+
 
 
 
 • GFX (`PNG` and `JPEG` format.)
 
-Experience: 2 years {■■■□□}
+
 
 
 
 • SFX (`MP3` and `WAV`only)
 
-Experience: 4 years {■■■■■}
 
+```
+(All of the above are skills that I've been using and learning for 1+ years)
+```
