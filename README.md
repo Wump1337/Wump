@@ -32,5 +32,8 @@ I'm James (Jacques in French), I'm 14 years old, and turn 15 in April. I was bor
 ```
 
 
-**All of the above are skills that I've been using and learning for 1+ years,)
-**
+**All of the above are skills that I've been using and learning for 1+ years.)**
+
+# Projects
+
+(Xonia)[https://xoniaapp.com] **Role(s): GFX and SFX Team, Tester**
