@@ -14,14 +14,17 @@ I'm James (Jacques in French), I'm 14 years old, and turn 15 in April. I was bor
 Experience: 1 year {■■□□□}
 
 
+
 • Video editing (`Only for personal use.`)
 
 Experience: 1/2 years {■■■□□}
 
 
+
 • GFX (`PNG` and `JPEG` format.)
 
 Experience: 2 years {■■■□□}
+
 
 
 • SFX (`MP3` and `WAV`only)
