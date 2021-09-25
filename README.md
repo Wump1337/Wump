@@ -36,7 +36,7 @@ I'm James (Jacques in French), I'm 14 years old, and turn 15 in April. I was bor
 
 # Projects
 
-![Screenshot_20210916-144214_Discord](https://user-images.githubusercontent.com/81032902/134771547-1af5d127-4138-4a97-9282-a9ad092d6d8e.jpg)  [Xonia](https://xoniaapp.com) **Role(s): GFX and SFX Team, Tester**
+[Xonia](https://xoniaapp.com) **Role(s): GFX and SFX Team, Tester**
  
  
  
