@@ -10,7 +10,7 @@ I'm James (Jacques in French), I'm 14 years old, and turn 15 in April. I was bor
 # Skills
 
 ```
-• Web programming (`HTML, CSS, and JS.)
+• Web programming (HTML, CSS, and JS.)
 
 
 
@@ -22,13 +22,13 @@ I'm James (Jacques in French), I'm 14 years old, and turn 15 in April. I was bor
 
 
 
-• GFX (PNG and JPEG` format.)
+• GFX (PNG and JPEG format.)
 
 
 
 
 
-• SFX (`MP3` and `WAV`only)
+• SFX (MP3 and `WAV only)
 ```
 
 
